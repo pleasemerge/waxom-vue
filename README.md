@@ -1,7 +1,7 @@
 # Waxom-vue
 Company website template
 
-Demo: [https://pleasemerge.github.io/grocery/](https://pleasemerge.github.io/grocery/)
+Demo: [https://pleasemerge.github.io/waxom/](https://pleasemerge.github.io/waxom/)
 
 - Vue 3
 - TailwindCSS
