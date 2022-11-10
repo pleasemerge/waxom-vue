@@ -3,10 +3,10 @@
   <div
     v-if="showVideoBg"
     class="absolute flex items-center justify-center bottom-0 left-0 w-full h-full z-10"
-    :style="{ backgroundImage: `url('/img/video-bg.png')` }"
+    :style="{ backgroundImage: `url('${$publicPath}img/video-bg.png')` }"
   >
     <div>
-      <a href="javascript:;" @click="playVideo"><img src="/img/video_play.png" class="block mx-auto" /></a>
+      <a href="javascript:;" @click="playVideo"><img :src="`${$publicPath}img/video_play.png`" class="block mx-auto" /></a>
       <div class="text-center">
         <h1><a href="javascript:;" @click="playVideo">Waxom Video Presentation</a></h1>
         <p class="py-4">
