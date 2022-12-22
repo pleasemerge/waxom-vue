@@ -1,7 +1,7 @@
 # Waxom-vue
 Company website template
 
-Demo: [https://pleasemerge.github.io/waxom/](https://pleasemerge.github.io/waxom-vue)
+Demo: [https://pleasemerge.github.io/waxom-vue](https://pleasemerge.github.io/waxom-vue)
 
 - Vue 3
 - TailwindCSS
